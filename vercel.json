@@ -1,0 +1,9 @@
+{
+  // No custom rewrites or redirects are defined here. The root
+  // redirect to `/de` is handled in next.config.mjs via the
+  // `redirects()` function. Keeping rewrites or redirects in
+  // vercel.json alongside Next.js redirects can cause redirect
+  // loops in some environments.
+  "rewrites": [],
+  "redirects": []
+}

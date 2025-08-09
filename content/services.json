@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "brand-fotografie",
+    "title_de": "Markenfotografie",
+    "title_en": "Brand Photography",
+    "summary_de": "Professionelle Fotos, die Ihre Marke ins rechte Licht rücken.",
+    "summary_en": "Professional photos that put your brand in the best light.",
+    "features": [
+      "Vorgespräch und Konzeptentwicklung",
+      "On‑Location oder im Studio",
+      "Bildbearbeitung und Retusche"
+    ],
+    "priceCHF": 1200,
+    "duration": "1 Tag",
+    "ctaText_de": "Angebot anfragen",
+    "ctaText_en": "Request a quote"
+  },
+  {
+    "slug": "kurzvideo",
+    "title_de": "Kurzvideos & Reels",
+    "title_en": "Short‑Form Video & Reels",
+    "summary_de": "Dynamische Videos für Social Media, die Aufmerksamkeit schaffen.",
+    "summary_en": "Dynamic videos for social media that capture attention.",
+    "features": [
+      "Storyboard und Drehplanung",
+      "Aufnahme in 4K",
+      "Schnitt und Musiklizenz"
+    ],
+    "priceCHF": 1500,
+    "duration": "2 Tage",
+    "ctaText_de": "Jetzt planen",
+    "ctaText_en": "Plan now"
+  },
+  {
+    "slug": "microsites",
+    "title_de": "Micro‑Sites & Landing Pages",
+    "title_en": "Micro‑Sites & Landing Pages",
+    "summary_de": "Schnell ladende Seiten, die verkaufen.",
+    "summary_en": "Fast‑loading pages that convert.",
+    "features": [
+      "Individuelles Design",
+      "Responsive Umsetzung",
+      "SEO‑Optimierung"
+    ],
+    "priceCHF": 2000,
+    "duration": "3–4 Wochen",
+    "ctaText_de": "Projekt starten",
+    "ctaText_en": "Start project"
+  }
+]

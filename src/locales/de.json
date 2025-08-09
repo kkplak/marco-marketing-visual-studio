@@ -1,0 +1,38 @@
+{
+  "brandName": "Marco Marketing Visual Studio",
+  "tagline": "Klar. Visuell. Wirkungsvoll.",
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "bookCall": "Kostenloses Erstgespräch",
+    "viewPortfolio": "Portfolio ansehen",
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr erfahren"
+  },
+  "footer": {
+    "address": "Olten, Schweiz",
+    "legal": "Impressum",
+    "privacy": "Datenschutz",
+    "newsletter": "Newsletter abonnieren"
+  },
+  "form": {
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon (optional)",
+    "company": "Unternehmen",
+    "message": "Nachricht",
+    "budget": "Budgetrahmen",
+    "consent": "Ich stimme der Datenverarbeitung zu",
+    "submit": "Senden"
+  },
+  "error": {
+    "required": "Dieses Feld ist erforderlich.",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+  }
+}

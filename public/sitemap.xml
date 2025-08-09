@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- German routes -->
+  <url><loc>https://www.marco-marketing.ch/de</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/services</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/portfolio</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/blog</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/about</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/contact</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/impressum</loc></url>
+  <url><loc>https://www.marco-marketing.ch/de/datenschutz</loc></url>
+  <!-- English routes -->
+  <url><loc>https://www.marco-marketing.ch/en</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/services</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/portfolio</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/blog</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/about</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/contact</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/impressum</loc></url>
+  <url><loc>https://www.marco-marketing.ch/en/datenschutz</loc></url>
+</urlset>
